@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647095549 source:c:\users\matim\onedrive\curso mati\2_practica\guia tp\guia tp 1-9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1647095585 source:c:\users\ignacio\onedrive\curso mati\3_guias\guia tp\unidad1\guia tp 1-9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
